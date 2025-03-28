@@ -5,7 +5,9 @@ My name is Unai,
 
 ## Hola 👋
 Me llamo  Unai,
-🌱 Estoy estudiando actualmente Python
+🌱 Estoy estudiando actualmente Python y  Data Science.
+📫 Como contactarme: Solo clica en mis datos de contacto de Github!
+
 <!--
 **UnaiFam/UnaiFam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
