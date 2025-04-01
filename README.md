@@ -6,7 +6,7 @@ My name is Unai,
 ## Hola 👋
 Me llamo  Unai,
 🌱*  Estoy estudiando actualmente Python y  Data Science.
-📫 * Como contactarme: Puedes a traves de **[Linkedin]**(www.linkedin.com/in/unai-famoso-rodriguez-873861333), ***[Github]***(https://github.com/UnaiFam), mediante el correo unaifamosorodriguez@gmail.com.
+📫 * Como contactarme: Puedes a traves de [Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-873861333), ***[Github](https://github.com/UnaiFam)***, mediante el correo unaifamosorodriguez@gmail.com.
 ⚡ * Curiosidad: ¡Empece con Data Science mientras estudiaba la carrera de Quimica!
 <!--
 **UnaiFam/UnaiFam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
