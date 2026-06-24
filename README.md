@@ -3,11 +3,13 @@ My name is Unai,
 * 🌱  I have medium level in Python and Data Science.
 * 📫  How to reach me: You can with ***[Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-873861333)***, ***[Github](https://github.com/UnaiFam)***, or with the e-mail unaifamosorodriguez@gmail.com.
 * ⚡ Fun fact: I started in Data Science during my bachelors in Chemistry!. When I made my studies in Environmental Contamination and Toxicology Masters I applied my Data Science knowledge in my Thesis.
+* 👉 You can see some of my proyects [here](https://unaifam.github.io/).
 ## Hola 👋
 Me llamo  Unai,
 * 🌱  Tengo conocimientos medios en Python y Data Science.
 * 📫 Como contactarme: Puedes contactarme a traves de ***[Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-873861333)***, ***[Github](https://github.com/UnaiFam)***, mediante el correo unaifamosorodriguez@gmail.com.
 * ⚡ Curiosidad: ¡Empece con Data Science mientras estudiaba la carrera de Quimica! Cuando realice mis estudios en el Master de Environmental Contamination and Toxicology segui con aplicando en el TFM mis conocimientos en Data Science.
+* 👉 Podeis saber sobre algunos de mis proyectos [aqui](https://unaifam.github.io/).
 
 
 <!--
